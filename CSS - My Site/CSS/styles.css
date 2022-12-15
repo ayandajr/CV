@@ -1,0 +1,172 @@
+/*********************************************************TAG SECTION******************************************************************/
+body
+{
+    margin: auto;
+}
+h1
+{
+    position:relative;
+    padding-top: 200px;
+    margin-top: 0px;
+}
+h2
+{
+    margin: auto;
+}
+/********************************************************CLASS SECTION*****************************************************************/
+
+/**********************************************************TOP DIV*********************************************************************/
+.Top-Container
+{
+    background-color: #C3F8FF;
+    text-align: center;
+}
+.Main-Personal-Description
+{
+    margin-bottom: 100px;
+}
+.First-Cloud
+{
+    position: absolute;
+    top: 90px;
+    right: 300px;
+}
+.Second-Cloud
+{
+    position: absolute;
+    Top: 350px;
+    left: 300px;
+    bottom: 350px;
+}
+.Image-Of-Mountain
+{
+    position: relative;
+    margin-bottom: 0px;
+}
+
+/**********************************************************MIDDLE DIV*********************************************************************/
+.Middle-Container
+{
+    background-color: #A5F1E9;
+}
+.Main-Image-Of-Me
+{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    width: 200px;
+    height: 200px;
+}
+.profile
+{
+    text-align: center;
+}
+.My-Skills-Heading
+{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.Break-between-my-skills
+{
+    border-style: dotted;
+    border-color: darkgrey;
+    border-width: 5px;
+    border-top: 0;
+}
+.Break-between-my-first-skill
+{
+    border-style: dotted;
+    border-color: darkgrey;
+    border-width: 5px;
+    border-top: 0;   
+}
+.Break-between-my-Second-skill
+{
+    border-style: dotted;
+    border-color: darkgrey;
+    border-width: 5px;
+    border-top: 0;   
+}
+.skills
+{
+    margin: auto;
+    text-align: center;
+}
+
+.Image-for-skill-One
+{
+    width:  100px;
+    height: 100px;
+}
+.Image-for-skill-Two
+{
+    width:  100px;
+    height: 100px;
+}
+.Image-for-skill-Three
+{
+    width: 100px;
+    height: 100px;
+}
+
+.contact-me
+{
+    text-align: center;
+}
+
+.btn
+{
+    padding-bottom: 10px;
+}
+/**********************************************************BOTTOM DIV*********************************************************************/
+.Bottom-Container
+{
+    text-align: center;
+    background-color: #ABD9FF;
+    margin: auto;
+}
+.Get-In-Touch-Heading
+{
+    padding-top: 30px;
+    padding-bottom: 5px;
+}
+.Social-Media-Heading
+{
+    padding-top: 30px;
+    padding-bottom: 15px;
+}
+.footer-link-One
+{
+    display: block;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.footer-link-Two
+{
+    display: block;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.footer-link-Three
+{
+    display: block;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.Line-Between-Copyright-Statement
+{
+    border-style: dotted;
+    border-color: black;
+    border-width: 5px;
+    border-top: 0;   
+}
+.Copyright-Statement
+{
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+.All-rights-statement
+{
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+/*********************************************************ID SECTION**********************************************************************/
